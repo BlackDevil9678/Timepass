@@ -5,3 +5,4 @@ Occupation : Student
 <br>
 Dream : To become rich
 <br>
+Current Condition : Broke
